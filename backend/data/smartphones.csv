@@ -1,0 +1,22 @@
+Модель,Бренд,ОС,"Ціна, грн","Продуктивність AnTuTu, тис.","Акумулятор, мА·год","Основна камера, Мп","Вага, г","Пам’ять, ГБ","Діагональ, дюйм","Оновлення ОС, років"
+iPhone 16 128GB,Apple,iOS,38000,1650,3561,48,170,128,6.1,6
+iPhone 16 Pro 256GB,Apple,iOS,55000,1750,3582,48,199,256,6.3,6
+iPhone 16e 128GB,Apple,iOS,28000,1450,4005,48,167,128,6.1,6
+Samsung Galaxy S25 256GB,Samsung,Android,38000,2100,4000,50,162,256,6.2,7
+Samsung Galaxy S25 Ultra 256GB,Samsung,Android,58000,2200,5000,200,218,256,6.9,7
+Samsung Galaxy S24 FE 128GB,Samsung,Android,22000,1400,4700,50,213,128,6.7,7
+Samsung Galaxy A56 256GB,Samsung,Android,18000,800,5000,50,198,256,6.7,6
+Samsung Galaxy A36 128GB,Samsung,Android,14000,750,5000,50,195,128,6.7,6
+Samsung Galaxy A16 128GB,Samsung,Android,7500,450,5000,50,200,128,6.7,6
+Google Pixel 9 128GB,Google,Android,32000,1150,4700,50,198,128,6.3,7
+Google Pixel 9a 128GB,Google,Android,20000,1100,5100,48,186,128,6.3,7
+Xiaomi 15 256GB,Xiaomi,Android,35000,2600,5240,50,191,256,6.36,4
+Xiaomi Redmi Note 14 Pro 5G 256GB,Xiaomi,Android,13000,750,5110,200,190,256,6.67,3
+Xiaomi Poco X7 Pro 256GB,Xiaomi,Android,14500,1500,6000,50,195,256,6.67,3
+Xiaomi Redmi 14C 128GB,Xiaomi,Android,5000,280,5160,50,204,128,6.88,2
+OnePlus 13 256GB,OnePlus,Android,40000,2600,6000,50,210,256,6.82,4
+OnePlus Nord 4 256GB,OnePlus,Android,17000,1150,5500,50,199,256,6.74,4
+Motorola Edge 50 Fusion 256GB,Motorola,Android,12000,600,5000,50,175,256,6.7,3
+Motorola Moto G85 256GB,Motorola,Android,9500,500,5000,50,172,256,6.67,2
+Nothing Phone (3a) 256GB,Nothing,Android,15000,800,5000,50,201,256,6.77,3
+Realme GT 7 Pro 256GB,Realme,Android,30000,2500,5800,50,222,256,6.78,3
